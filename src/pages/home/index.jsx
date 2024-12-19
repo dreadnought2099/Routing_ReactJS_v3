@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="conatainer mt-5">
+    <div className="container mt-5">
       <h1 className="display-4">Welcome to RMAGALLANEZ</h1>
       <div className="social-icons text-center mt-4">
         <a
